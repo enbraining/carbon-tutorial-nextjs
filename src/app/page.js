@@ -17,8 +17,8 @@ export default function Home() {
   return (
     <main>
       <Tile>
-        <h1>Getting Started</h1>
-        <p>Based Carbon Design System + Next.js</p>
+        <h1>Enbraining</h1>
+        <p>Carbon Design System Sandbox</p>
       </Tile>
       <br />
       <Tabs>
